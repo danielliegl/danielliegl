@@ -1,7 +1,9 @@
 Hi, I’m @danielliegl
-- I’m interested in Programming, Web Development and Fighting Games.
-- I’m currently learning HTML and CSS.
+- I’m interested in Web and Game Development
+- Currently trying to learn using [Godot](https://godotengine.org/)
 - You can reach me at d.liegl@student.tugraz.at or on my [LinkedIn profile](https://www.linkedin.com/in/daniel-liegl/).
+
+> Life... You could say it started when I was a kid. 
 
 <!---
 danielliegl/danielliegl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

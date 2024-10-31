@@ -1,6 +1,5 @@
 Hi, I’m @danielliegl
 - I’m interested in Web and Game Development
-- Currently trying to learn using [Godot](https://godotengine.org/)
 - You can reach me at d.liegl@student.tugraz.at or on my [LinkedIn profile](https://www.linkedin.com/in/daniel-liegl/).
 
 > Life... You could say it started when I was a kid. 
